@@ -25,6 +25,7 @@ public enum CategoriaVeiculo {
 	}
 	public PrecoAno[] getPrecosAnos() {
 		return precosAnos;
+	}
 
 	public static CategoriaVeiculo obterCategoria(int codigo) {
 		for (CategoriaVeiculo cat : CategoriaVeiculo.values()) {
