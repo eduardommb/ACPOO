@@ -1,1 +1,8 @@
 bin/
+*.dat
+Apolice/
+SeguradoEmpresa/
+SeguradoPessoa/
+Sinistro/
+Veiculo/
+EOF/

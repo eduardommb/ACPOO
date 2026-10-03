@@ -6,6 +6,7 @@ import java.time.LocalDate;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import br.edu.cs.poo.ac.seguro.entidades.Segurado;
 import br.edu.cs.poo.ac.seguro.entidades.SeguradoEmpresa;
 import br.edu.cs.poo.ac.seguro.entidades.SeguradoPessoa;
 import br.edu.cs.poo.ac.seguro.entidades.TipoSinistro;
