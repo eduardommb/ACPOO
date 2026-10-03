@@ -1,10 +1,12 @@
 package br.edu.cs.poo.ac.seguro.entidades;
-
 import java.time.LocalDate;
 import java.math.BigDecimal;
 import java.time.Period;
+import java.io.Serializable;
 
-public class Segurado {
+
+
+public class Segurado implements Serializable{
 	private String nome;
 	private Endereco endereco;
 	private LocalDate dataCriacao;
